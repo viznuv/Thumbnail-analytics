@@ -44,5 +44,5 @@ The analysis includes:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/viznuv/Thumbnail-analytics.git
+   cd Thumbnail-analytics
